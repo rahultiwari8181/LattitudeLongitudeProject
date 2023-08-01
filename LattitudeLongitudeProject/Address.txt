@@ -1,0 +1,152 @@
+Delhi 28.6100 77.2300
+Mumbai 19.0761 72.8775
+Kolkāta 22.5675 88.3700
+Bangalore 12.9789 77.5917
+Chennai 13.0825 80.2750
+Hyderabad 17.3850 78.4867
+Pune 18.5203 73.8567
+Ahmedabad 23.0300 72.5800
+Surat 21.1702 72.8311
+Prayagraj 25.4358 81.8464
+Lucknow 26.8500 80.9500
+Jaipur 26.9000 75.8000
+Cawnpore 26.4499 80.3319
+Mirzāpur 25.1460 82.5690
+Nagpur 21.1497 79.0806
+Ghaziabad 28.6700 77.4200
+Vadodara 22.3000 73.2000
+Vishakhapatnam 17.7042 83.2978
+Indore 22.7167 75.8472
+Thāne 19.1972 72.9722
+Bhopāl 23.2500 77.4167
+Chinchvad 18.6186 73.8037
+Patna 25.6000 85.1000
+Bilāspur 22.0900 82.1500
+Ludhiāna 30.9100 75.8500
+Agwār 27.1800 78.0200
+Āgra 27.1800 78.0200
+Madurai 9.9252 78.1198
+Jamshedpur 22.7925 86.1842
+Nāsik 20.0000 73.7800
+Farīdābād 28.4167 77.3000
+Aurangābād 19.8800 75.3200
+Rājkot 22.3000 70.7833
+Meerut 28.9800 77.7100
+Jabalpur 23.1667 79.9333
+Kalamboli 19.2333 73.1333
+Vasai 19.4700 72.8000
+Najafgarh 28.6092 76.9798
+Vārānasi 25.3189 83.0128
+Srīnagar 34.0900 74.7900
+Dhanbād 23.7998 86.4305
+Amritsar 31.6400 74.8600
+Alīgarh 27.8800 78.0800
+Guwāhāti 26.1722 91.7458
+Hāora 22.5800 88.3294
+Rānchi 23.3600 85.3300
+Gorakhpur 29.3546 90.3245
+Gwalior 26.2215 78.1780
+Chandīgarh 30.7500 76.7800
+Vijayavāda 16.5193 80.6305
+Jodhpur 26.2800 73.0200
+Raipur 21.2500 81.6300
+Kota 25.1800 75.8300
+Kālkāji Devi 28.5485 77.2513
+Bhayandar 19.2900 72.8500
+Ambattūr 13.1143 80.1548
+Salt Lake City 22.6100 88.4000
+Bhātpāra 22.8700 88.4100
+Kūkatpalli 17.4849 78.4138
+Darbhanga 26.1700 85.9000
+Dāsarhalli 13.0465 77.5130
+Muzaffarpur 26.1225 85.3906
+Oulgaret 11.9570 79.7737
+New Delhi 28.6139 77.2090
+Tiruvottiyūr 13.1600 80.3000
+Puducherry 11.9167 79.8167
+Byatarayanpur 13.0659 77.5922
+Pallāvaram 12.9675 80.1491
+Secunderābād 17.4399 78.4983
+Shimla 31.1033 77.1722
+Puri 19.8106 85.8314
+Shrīrāmpur 22.7500 88.3400
+Hugli 22.9089 88.3967
+Chandannagar 22.8671 88.3674
+Sultānpur Mazra 28.6981 77.0689
+Krishnanagar 23.4000 88.5000
+Bārākpur 22.7642 88.3776
+Bhālswa Jahangirpur 28.7354 77.1638
+Nāngloi Jāt 28.6833 77.0667
+Yelahanka 13.1007 77.5963
+Titāgarh 22.7400 88.3700
+Dam Dam 22.6200 88.4200
+Bānsbāria 22.9700 88.4000
+Madhavaram 13.1482 80.2314
+Baj Baj 22.4828 88.1818
+Nerkunram 13.0667 80.2833
+Kendrāparha 20.5000 86.4200
+Sijua 23.7692 86.1673
+Manali 13.1667 80.2667
+Chakapara 22.6300 88.3500
+Pāppākurichchi 10.8137 78.7481
+Herohalli 12.9911 77.4873
+Madipakkam 12.9623 80.1986
+Sabalpur 25.6053 85.1835
+Salua 22.6100 88.2700
+Balasore 21.4942 86.9317
+Jālhalli 13.0333 77.5500
+Chinnasekkadu 13.1609 80.2573
+Jethuli 25.5378 85.2841
+Nagtala 22.3693 88.6071
+Bāgalūr 13.1328 77.6685
+Pakri 25.5876 85.1580
+Hunasamaranhalli 13.1435 77.6200
+Hesarghatta 13.1391 77.4783
+Bommayapālaiyam 11.9922 79.8499
+Gundūr 10.7339 78.7184
+Punādih 25.5484 85.2649
+Harilādih 23.6300 86.3500
+Alāwalpur 25.4958 85.2021
+Mādnāikanhalli 13.0626 77.4642
+Kādiganahalli 13.1687 77.6283
+Mahuli 25.5430 85.2268
+Zeyādah Kot 22.3210 88.2457
+Arshakunti 13.0785 77.4225
+Hīrāpur 23.6834 87.1973
+Mirchi 25.5554 85.2139
+Sonudih 25.1155 87.0214
+Sondekoppa 13.0000 77.3667
+Babura 25.0851 87.1092
+Mādavar 13.0525 77.4732
+Kadabgeri 12.9965 77.4331
+Nanmangalam 12.9381 80.1753
+Taliganja 22.5876 88.4439
+Tarchha 25.1116 87.0964
+Belgharia 22.5692 88.4846
+Kammanhalli 13.0155 77.6381
+Sonnappanhalli 13.1557 77.6179
+Kedihāti 22.6543 88.5304
+Doddajīvanhalli 13.0086 77.6143
+Simli Murārpur 25.5792 85.2401
+Sonāwān 25.5445 85.2387
+Devanandapur 22.9378 88.3698
+Tribeni 23.0269 88.4565
+Huttanhalli 13.1651 77.6512
+Nathupur 25.5163 85.2544
+Bāli 25.4810 85.2227
+Vājarhalli 13.1022 77.4111
+Saino 25.1134 87.0108
+Shekhpura 25.5725 85.1428
+Cāchohalli 13.0010 77.4717
+Nārāyanpur Kola 25.1293 87.0076
+Gyan Chak 25.5496 85.2423
+Kasgatpur 13.1101 77.5045
+Kitanelli 13.0095 77.4191
+Harchandi 25.1000 87.0442
+Santoshpur 22.4650 88.2193
+Bendravādi 12.3636 76.9137
+Kodagihalli 12.9771 77.4651
+Harna Buzurg 25.0981 87.0148
+Mailanhalli 13.1863 77.6963
+Sultānpur 25.5248 85.2507
+
